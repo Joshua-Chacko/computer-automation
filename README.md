@@ -33,6 +33,7 @@ python scripts/file_cleanup.py
 
 ## Project Structure
 
+```bash
 computer-automation/
 │
 ├── scripts/        Main automation scripts
@@ -41,6 +42,7 @@ computer-automation/
 ├── tests/          Test files (optional)
 ├── requirements.txt
 └── README.md
+```
 
 ## Notes
 
